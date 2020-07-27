@@ -76,3 +76,4 @@ typings/
 .cache
 
 *.todo
+*.eslint.json
